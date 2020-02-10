@@ -133,7 +133,7 @@
 - **ConvKB**
   - **A Novel Embedding Model For Knowledge Base Completion Based On Convolutional Neural Network.** *Dai Quoc Nguyen, Tu Dinh Nguyen, Dat Quoc Nguyen and Dinh Phung.* NAACL 2018.
   - [[paper]](https://www.aclweb.org/anthology/N18-2053)
-  - [[TensorFlow]](https://github.com/daiquocnguyen/ConvKB)不太好用，在新数据集上表现可能不会太好
+  - [[TensorFlow]](https://github.com/daiquocnguyen/ConvKB)
   
 - **Accurate Text-Enhanced Knowledge Graph Representation Learning.**
   - *Bo An, Xianpei Han and Le Sun.* NAACL 2018.
