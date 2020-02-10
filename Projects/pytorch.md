@@ -23,3 +23,12 @@
   - 代码继承自ConvE，可用
   - [[paper]](https://arxiv.org/abs/1811.04441)
   - [[pytorch]](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
+
+
+- **KTUP**
+  - **Unifying Knowledge Graph Learning and Recommendation: Towards a Better Understanding of User Preference.** *Yixin Cao, Xiang Wang, Xiangnan He, Zikun Hu, Tat-Seng Chua.* WWW 2019.
+  - [[paper]](https://www.comp.nus.edu.sg/~xiangnan/papers/www19-KGRec.pdf)
+  - [[PyTorch]](https://github.com/TaoMiner/joint-kg-recommender)
+  - TransE/TransH
+  - COFM/KTUP
+  
