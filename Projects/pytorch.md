@@ -6,3 +6,20 @@
   - TransE/TransH/TransR/TransD
   - Rescal/DistMult/ComplEX/HolE/Analogy
   - SimplE/RotatE
+  
+- **KBGAN**
+  - **KBGAN: Adversarial Learning For Knowledge Graph Embeddings.** *Liwei Cai and William Yang Wang.* NAACL 2018.
+  - 基于GAN的三元组负例生成
+  - [[paper]](https://www.aclweb.org/anthology/N18-1133)
+  - [[pytorch]](https://github.com/cai-lw/KBGAN)
+
+- **ConvE**
+  - **Convolutional 2D Knowledge Graph Embeddings.** *Tim Dettmers, Pasquale Minervini, Pontus Stenetorp, Sebastian Riedel.* AAAI 2018.
+  - [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/17366/15884)
+  - [[pytorch]](https://github.com/TimDettmers/ConvE), good experience
+
+- **SACN & Conv-TransE**
+  - **End-to-end Structure-Aware Convolutional Networks for Knowledge Base Completion.** *Chao Shang, Yun Tang, Jing Huang, Jinbo Bi, Xiaodong He, Bowen Zhou.* AAAI 2019.
+  - 代码继承自ConvE，可用
+  - [[paper]](https://arxiv.org/abs/1811.04441)
+  - [[pytorch]](https://github.com/JD-AI-Research-Silicon-Valley/SACN)
