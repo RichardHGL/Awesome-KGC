@@ -1,6 +1,6 @@
 There are multiple datasets in KGC task, we list the standard ones as:
 
-## Neighbot-Enhanced KBE papers
+## Benchmarks
 1. **WN18.**
     > WN18 is a KGC dataset built upon wordnet. As it contain muliple inverse relations, there exist ovelap between train/dev/test.
     
