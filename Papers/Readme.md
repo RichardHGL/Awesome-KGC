@@ -162,11 +162,6 @@
   - [[paper]](https://www.aclweb.org/anthology/D18-1359)
   - [[TensorFlow]](https://github.com/pouyapez/mkbe)
 
-- **HyTE**
-  - **HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding.** *SHIB SANKAR DASGUPTA, Swayambhu Nath Ray and Partha Talukdar.* EMNLP 2018.
-  - [[paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)
-  - [[TensorFlow]](https://github.com/malllabiisc/HyTE)
-
 - **OSRLKG**
   - **One-Shot Relational Learning for Knowledge Graphs.** *Wenhan Xiong, Mo Yu, Shiyu Chang, Xiaoxiao Guo and William Yang Wang.* EMNLP 2018.
   - [[paper]](https://www.aclweb.org/anthology/D18-1223)
@@ -224,6 +219,49 @@
 
 1. **LENA: Locality-Expanded Neural Embedding for Knowledge Base Completion.**
 *Fanshuang Kong, Richong Zhang, Yongyi Mao, Ting Deng.* AAAI 2019.
+
+
+## Temporal Knowledge Graph Embedding
+- **HyTE**
+  - **HyTE: Hyperplane-based Temporally aware Knowledge Graph Embedding.** *SHIB SANKAR DASGUPTA, Swayambhu Nath Ray and Partha Talukdar.* EMNLP 2018.
+  - [[paper]](http://talukdar.net/papers/emnlp2018_HyTE.pdf)
+  - [[TensorFlow]](https://github.com/malllabiisc/HyTE)
+  
+- **ATISE**
+  - **Temporal Knowledge Graph Completion based on Time Series Gaussian Embedding.** *Chenjin Xu, Mojtaba Nayyeri, Fouad Alkhoury, Hamed Yazdi and Jens Lehmann.* ISWC 2020.
+  - [[paper]](https://arxiv.org/pdf/1911.07893.pdf)
+  - [[Pytorch]](https://github.com/soledad921/ATISE)
+  
+- **TeRo**
+  - **TeRo: A Time-aware Knowledge Graph Embedding via Temporal Rotation.** *Chengjin Xu, Mojtaba Nayyeri, Fouad Alkhoury and Hamed Shariat Yazdi.* COLING 2020.
+  - [[paper]](https://arxiv.org/pdf/2010.01029.pdf)
+  - [[Pytorch]](https://github.com/soledad921/ATISE)
+  
+- **TKBC**
+  - **Tensor Decompositions for temporal knowledge base completion.** *Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier.* ICLR 2020.
+  - [[paper]](https://arxiv.org/pdf/2004.04926.pdf)
+  - [[Pytorch]](https://github.com/facebookresearch/tkbc)
+  
+- **RE-NET**
+  - **Recurrent Event Network: Autoregressive Structure Inference over Temporal Knowledge Graphs.** *Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren.* EMNLP 2020.
+  - [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.541.pdf)
+  - [[Code]](https://github.com/INK-USC/RE-Net)
+  
+- **TIMEPLEX**
+  - **Temporal Knowledge Base Completion: New Algorithms and Evaluation Protocols.** *Prachi Jain, Sushant Rathi, Mausam and Soumen Chakrabarti.* EMNLP 2020.
+  - [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.305.pdf)
+  - [[Code]](https://github.com/dair-iitd/tkbi)
+  
+- **TeMP**
+  - **TeMP: Temporal Message Passing for Temporal Knowledge Graph Completion.** *Jiapeng Wu, Meng Cao, Jackie Chi Kit Cheung, William L. Hamilton.* EMNLP 2020.
+  - [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.462.pdf)
+  - [[Code]](https://github.com/JiapengWu/TeMP)
+  
+- **DyERNIE**
+  - **DyERNIE: Dynamic Evolution of Riemannian Manifold Embeddings for Temporal Knowledge Graph Completion.** *Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp.* EMNLP 2020.
+  - [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.593.pdf)
+  
+More papers about this topic can be found at [here](https://github.com/shengyp/Temporal-and-Evolving-KG#embedding_learning_of_temporal_knowledge_graph)
 
 ## Fact Discovery from Knowledge Base
 
