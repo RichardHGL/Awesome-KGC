@@ -18,3 +18,9 @@
   - [[paper]](https://openreview.net/forum?id=HkgEQnRqYQ)
   - [[code]](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding)
   - tricks: Self-adversarial negative sampling 
+  
+- **Structure Aware Negative Sampling in Knowledge Graphs.** *Kian Ahrabian, Aarash Feizi, Yasmin Salehi, William L. Hamilton and Avishek Joey Bose.* EMNLP 2020.
+  - [[paper]](https://www.aclweb.org/anthology/2020.emnlp-main.492.pdf)
+  - [[code]](https://github.com/kahrabian/SANS)
+  - tricks: Structure Aware Negative Sampling
+
